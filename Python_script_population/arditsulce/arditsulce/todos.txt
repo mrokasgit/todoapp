@@ -1,0 +1,6 @@
+clean
+relax
+shower
+sleep
+clean
+Learn python
