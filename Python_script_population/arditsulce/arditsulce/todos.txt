@@ -1,9 +1,7 @@
-tidy uprelax
 shower
 sleep
 clean
-Learn python
-removesomething
 add
 tidy up
 last
+something
