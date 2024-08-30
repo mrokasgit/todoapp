@@ -1,4 +1,4 @@
-FILEPATH = 'todos.txt'
+FILEPATH = r'C:\Users\mrokas\Desktop\Python_script_population\arditsulce\arditsulce\todos.txt'
 
 def get_todos(filepath = FILEPATH):
     with open(filepath, 'r') as file_local:# we read the lines of the file and assign to a variable (initially todos = [], but no need anymore because every time we
